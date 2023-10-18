@@ -1,0 +1,2 @@
+SELECT * FROM `km-data-dev.L0_yahoofinance.closeprice`
+WHERE Ticker = 'TLKM.JK'

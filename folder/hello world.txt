@@ -92,7 +92,6 @@ cat('Hello, World!\n')  # R
 -- Microsoft SQL Server
 PRINT 'Hello, World!';
 
-
 assdas
 dadd
 assdasd
