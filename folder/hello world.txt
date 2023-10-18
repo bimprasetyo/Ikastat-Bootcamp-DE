@@ -1,0 +1,93 @@
+print('Hello, World!')  # Python
+
+console.log('Hello, World!');  # JavaScript
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}  # Java
+
+#include <iostream>  # C++
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+
+using System;  # C#
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello, World!");
+    }
+}
+
+puts 'Hello, World!'  # Ruby
+
+<?php  # PHP
+echo 'Hello, World!';
+?>
+
+print("Hello, World!")  # Swift
+
+package main  # Go
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+
+fn main() {  # Rust
+    println!("Hello, World!");
+}
+
+fun main() {  # Kotlin
+    println("Hello, World!")
+}
+
+console.log('Hello, World!');  # TypeScript
+
+print "Hello, World!\n";  # Perl
+
+print('Hello, World!')  # Lua
+
+<?php  # PHP
+echo 'Hello, World!';
+?>
+
+print("Hello, World!")  # Swift
+
+package main  # Go
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+
+fn main() {  # Rust
+    println!("Hello, World!");
+}
+
+fun main() {  # Kotlin
+    println("Hello, World!")
+}
+
+console.log('Hello, World!');  # TypeScript
+
+print "Hello, World!\n";  # Perl
+
+print('Hello, World!')  # Lua
+
+main :: IO ()  # Haskell
+main = putStrLn "Hello, World!"
+
+object HelloWorld {  # Scala
+  def main(args: Array[String]): Unit = {
+    println("Hello, World!")
+  }
+}
+
+cat('Hello, World!\n')  # R
+
+-- SQL
+-- Microsoft SQL Server
+PRINT 'Hello, World!';
