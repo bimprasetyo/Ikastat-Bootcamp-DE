@@ -367,6 +367,8 @@ simulate_queue <- function(arrival_rate, service_rate, num_servers, num_customer
   return(result)
 }
 
+
+
 # Call the function and store the result
 result <- simulate_queue(arrival_rate = 30, service_rate = 10, num_servers = 3, num_customers = 30000)
 result
